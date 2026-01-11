@@ -19,6 +19,6 @@ This repository contains the tasks completed as part of my Data Science Internsh
 - Pandas
 - NumPy
 - Matplotlib
-- Jupyter Notebook
+
 
 These tasks helped me strengthen my understanding of real-world data analysis and problem-solving.
